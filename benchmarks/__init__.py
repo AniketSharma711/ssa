@@ -1,0 +1,1 @@
+"""Independent optimization benchmark definitions."""
